@@ -20,14 +20,17 @@ I work on methods for optimizing LLM-based systems at inference time. My researc
 
 🌟 **promptolution** *(EACL 2026, 120+ ⭐)*  
 Scalable framework for automated prompt optimization using evolutionary search.  
+
 💻 [Repository](https://github.com/automl/promptolution) · 📄 [Paper](https://aclanthology.org/2026.eacl-demo.21/) · 🎥 [YouTube Summary](https://www.youtube.com/watch?v=gySdgjEhsZA)
 
 📄 **CAPO: Cost-Aware Prompt Optimization** *(AutoML 2025)*  
 Efficient prompt search via budget-aware evolutionary optimization (live version in promptolution!)
+
 💻 [Repository](https://github.com/finitearth/capo) · 📄 [Paper](https://openreview.net/forum?id=UweaRrg9D0#discussion) · 🎥 [YouTube Summary](https://www.youtube.com/watch?v=NfiKXGj72R0)
 
 📄 **CALIOPE: Calibration of Positional Encodings** *(EACL 2026)*  
 Training-free positional encodings applied at inference time that can massively improve the utilization of long contexts.  
+
 💻 [Repository](https://github.com/finitearth/caliope) · 📄 [Paper](https://aclanthology.org/2026.findings-eacl.120/) · 🎥 [YouTube Summary](https://youtu.be/MI0Dmm3zraQ?si=dlLyL-sIcSWWXuoQ)
 
 ---
