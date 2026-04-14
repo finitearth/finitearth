@@ -1,7 +1,8 @@
 # Tom Zehle 👋
 **PhD Researcher @ AutoML Lab of Uni Freiburg (Prof. Frank Hutter)** | LMU Munich Alumni | Ex-Airbus  
 
-I work on methods for optimizing LLM-based systems at inference time. My research brings Automated Machine Learning (AutoML) to the configuration of multi-agent systems, enabling automated setup, evaluation, and improvement in settings with expensive or sparse feedback.
+Hey everyone!
+I'm Tom and I work on methods for optimizing LLM-based systems at inference time. My research brings Automated Machine Learning (AutoML) to the configuration of multi-agent systems, enabling automated setup, evaluation, and optimization in settings with expensive evaluation.
 
 ### 🔬 Research Focus
 
@@ -36,5 +37,5 @@ Training-free positional encodings applied at inference time that can massively 
 ---
 
 ### 📫 Connect
-Open to **Research Internships / Applied Scientist roles (2027)**  
+Open to **Research Internships** (2027)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tom-zehle/) · [Google Scholar](https://scholar.google.com/citations?user=nw0bG2EAAAAJ) · [E-Mail](mailto:tom.zehle@tue.ellis.eu)
