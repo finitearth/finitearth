@@ -17,7 +17,7 @@ I'm Tom and I work on methods for optimizing LLM-based systems at inference time
 
 ---
 
-### 📚 Work, Code & Talks
+### 📚 Paper Repositories
 
 🌟 **promptolution** *(EACL 2026, 120+ ⭐)*  
 Scalable framework for automated prompt optimization using evolutionary search.  
@@ -37,5 +37,5 @@ Training-free positional encodings applied at inference time that can massively 
 ---
 
 ### 📫 Connect
-Open to **Research Internships** (2027)  
+Open to **Research Internships** (Summer 2027)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tom-zehle/) · [Google Scholar](https://scholar.google.com/citations?user=nw0bG2EAAAAJ) · [E-Mail](mailto:tom.zehle@tue.ellis.eu)
